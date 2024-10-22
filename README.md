@@ -6,9 +6,7 @@
 	Coffe 🚀 Finalizado.
 </h4>
 
-<ul>
-	<a>https://mizaeldragon.github.io/coffe/</a>
-</ul>
+LINK DO SITE: https://mizaeldragon.github.io/coffe/
 
 ## 🛠 Tecnologias
 
